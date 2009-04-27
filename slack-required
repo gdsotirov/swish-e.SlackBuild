@@ -1,0 +1,4 @@
+glibc-solibs >= 2.7
+libxml2 >= 2.6.32
+perl >= 5.10.0
+zlib >= 1.2.3
