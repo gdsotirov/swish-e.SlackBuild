@@ -1,0 +1,12 @@
+swish-e: Swish-e (Simple Web Indexing System for Humans - Enhanced)
+swish-e:
+swish-e: Swish-e is a fast, flexible, and free open source system for
+swish-e: indexing collections of Web pages or other files. Swish-e is
+swish-e: ideally suited for collections of a million documents or
+swish-e: smaller. Using the GNOME(tm) libxml2 parser and a collection of
+swish-e: filters, Swish-e can index plain text, e-mail, PDF, HTML, XML,
+swish-e: Microsoft(r) Word/PowerPoint/Excel and just about any file that
+swish-e: can be converted to XML or HTML text. Swish-e is also often used
+swish-e: to supplement databases like the MySQL(r) DBMS for very fast
+swish-e: full-text searching.
+swish-e: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
